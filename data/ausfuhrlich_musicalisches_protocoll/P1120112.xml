@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>P1120112.JPG</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1937" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1938" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1939" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1940" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/>
+    <OtherTag ID="LT781" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT782" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2448"
+          HEIGHT="3264"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2448"
+                  HEIGHT="3264">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_d0e568bf"
+                    
+                    BASELINE="2412 1653 2434 1651" 
+                    HPOS="2407"
+                    VPOS="1618"
+                    WIDTH="30"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="2412 1618 2407 1618 2412 1653 2415 1691 2437 1689 2434 1651 2426 1618 2412 1618"/></Shape>
+	    <String CONTENT=""
+                    HPOS="2407"
+                    VPOS="1618"
+                    WIDTH="30"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b66e2ef9"
+                    
+                    BASELINE="2423 1882 2439 1882" 
+                    HPOS="2423"
+                    VPOS="1852"
+                    WIDTH="16"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="2423 1879 2423 1882 2423 1906 2439 1906 2439 1882 2439 1852 2423 1879"/></Shape>
+	    <String CONTENT=""
+                    HPOS="2423"
+                    VPOS="1852"
+                    WIDTH="16"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0f4231b8"
+                    
+                    BASELINE="2423 2023 2439 2023" 
+                    HPOS="2423"
+                    VPOS="1999"
+                    WIDTH="16"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="2423 2023 2426 2056 2439 2050 2439 2023 2423 1999 2423 2023"/></Shape>
+	    <String CONTENT=""
+                    HPOS="2423"
+                    VPOS="1999"
+                    WIDTH="16"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fa84c187"
+                    
+                    BASELINE="2409 2404 2439 2399" 
+                    HPOS="2404"
+                    VPOS="2350"
+                    WIDTH="38"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="2404 2374 2409 2404 2418 2434 2442 2418 2439 2399 2420 2350 2407 2355 2404 2374"/></Shape>
+	    <String CONTENT=""
+                    HPOS="2404"
+                    VPOS="2350"
+                    WIDTH="38"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
