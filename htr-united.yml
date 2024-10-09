@@ -13,80 +13,88 @@ characters:
   - n
   - i
   - r
-  - a
   - s
+  - a
   - h
   - t
   - d
-  - u
   - c
   - l
   - o
+  - u
   - g
   - m
   - ','
-  - b
   - w
-  - f
+  - b
   - ̈
-  - z
+  - f
   - .
-  - v
   - k
-  - ¬
-  - p
-  - M
-  - y
-  - j
-  - ̃
-  - S
-  - '1'
+  - z
+  - v
   - ß
-  - G
-  - A
+  - p
+  - ¬
+  - y
   - J
-  - ;
-  - C
-  - P
-  - x
-  - R
-  - '7'
-  - N
-  - '0'
+  - S
+  - M
+  - j
   - V
-  - I
-  - '3'
-  - B
-  - O
-  - E
-  - ^
-  - W
-  - D
-  - q
-  - U
-  - K
-  - '4'
-  - Z
-  - '2'
-  - T
+  - G
+  - '1'
+  - P
+  - '0'
   - H
-  - '?'
-  - L
-  - '='
-  - ':'
+  - E
+  - N
+  - ;
+  - D
+  - A
+  - R
+  - '2'
+  - W
+  - T
+  - x
   - /
-  - '5'
+  - O
+  - C
+  - I
+  - '4'
+  - '3'
+  - ':'
+  - '?'
+  - _
+  - K
+  - ̃
+  - B
+  - '7'
+  - Z
+  - U
+  - q
   - F
-  - '@'
-  - –
-  - '8'
-  - '6'
+  - '5'
+  - L
+  - æ
   - ̀
-  - '9'
+  - '6'
   - '-'
-  - ́
-  - ’
-  - …
+  - '='
+  - '8'
+  - '!'
+  - '9'
+  - –
+  - °
+  - '"'
+  - ^
+  - '['
+  - ']'
+  - '@'
+  - "'"
+  - '&'
+  - '#'
+  - „
   mode: NFD
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-DE-MSS-18/blob/master/CITATION.cff
 description: German Manuscripts of the 18th
@@ -114,11 +122,11 @@ title: FONDUE-DE-MSS-18
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-DE-MSS-18
 volume:
-- count: 24374
+- count: 90544
   metric: characters
-- count: 17
+- count: 57
   metric: files
-- count: 534
+- count: 2069
   metric: lines
-- count: 34
+- count: 58
   metric: regions
