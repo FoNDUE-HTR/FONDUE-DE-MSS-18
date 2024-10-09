@@ -10,6 +10,11 @@ authors:
     email: simon.gabay@unige.ch
     affiliation: Geneva University
     orcid: https://orcid.org/0000-0001-9094-4475
+authors:
+  - family-names: Riedo
+    given-names: Christoph
+    email: christoph.riedo@unige.ch
+    affiliation: Geneva University
 repository-code: 'https://github.com/FoNDUE-HTR/FONDUE-DE-MSS-18'
 keywords:
   - HTR
