@@ -11,15 +11,15 @@ characters:
   members:
   - e
   - n
-  - r
   - i
+  - r
+  - a
   - s
   - h
-  - a
   - t
   - d
-  - c
   - u
+  - c
   - l
   - o
   - g
@@ -27,60 +27,66 @@ characters:
   - ','
   - b
   - w
-  - ̈
   - f
-  - .
+  - ̈
   - z
-  - k
+  - .
   - v
+  - k
   - ¬
-  - ß
-  - S
   - p
   - M
+  - y
+  - j
+  - ̃
+  - S
+  - '1'
+  - ß
+  - G
   - A
   - J
-  - y
-  - G
-  - '1'
-  - '7'
-  - ̃
-  - j
-  - x
-  - V
-  - U
-  - ^
-  - C
-  - W
-  - O
   - ;
-  - '3'
+  - C
   - P
-  - K
+  - x
   - R
-  - Z
+  - '7'
   - N
+  - '0'
+  - V
+  - I
+  - '3'
+  - B
+  - O
+  - E
+  - ^
+  - W
+  - D
+  - q
+  - U
+  - K
+  - '4'
+  - Z
+  - '2'
+  - T
   - H
+  - '?'
   - L
   - '='
-  - '4'
-  - D
-  - /
-  - q
-  - '8'
-  - T
-  - I
-  - E
-  - '@'
-  - '2'
-  - '5'
-  - '6'
-  - B
-  - F
   - ':'
-  - '?'
+  - /
+  - '5'
+  - F
+  - '@'
+  - –
+  - '8'
+  - '6'
+  - ̀
   - '9'
-  - '0'
+  - '-'
+  - ́
+  - ’
+  - …
   mode: NFD
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-DE-MSS-18/blob/master/CITATION.cff
 description: German Manuscripts of the 18th
@@ -108,11 +114,11 @@ title: FONDUE-DE-MSS-18
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-DE-MSS-18
 volume:
-- count: 6910
+- count: 24374
   metric: characters
-- count: 6
+- count: 17
   metric: files
-- count: 153
+- count: 534
   metric: lines
-- count: 11
+- count: 34
   metric: regions
